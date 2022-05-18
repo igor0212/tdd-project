@@ -1,0 +1,2 @@
+Teste funcional testa o sistema já desenvolvido, enquanto o teste de unidade testa o código desenvolvido.
+Teste funcional é criado para testar simulando o usuário utilizando o sistema, enquanto o teste de unidade é criado para testar o código na visão do programados.
