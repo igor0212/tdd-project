@@ -1,0 +1,3 @@
+Para implementar o TDD precisamos rodar o teste de unidade e, se passar, precisamos ou não refatorar o código e escrever mais testes. Caso contrário, precisamos complementar o código e repetir o teste até que ele passe. No nosso projeto estamos fazendo isso para os testes de unidade e o testes funcionais.
+
+
